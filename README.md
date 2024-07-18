@@ -1,0 +1,23 @@
+CAR DEALERSHIP WEBSITE
+
+This repository contains a simple webpage for a car dealership, designed to help beginners learn the basics of HTML, CSS, and a little bit of JavaScript. The project includes essential sections such as a homepage and car listings.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+FEATURES
+
+Homepage: A welcoming section with introductory content.
+Car Listings: Display of various cars available for sale with images and details.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+TECHNOLOGIES USED
+
+HTML: For the basic structure of the webpage.
+
+CSS: For styling and layout.
+
+JavaScript: For basic interactivity and dynamic content.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+DO CHECK IT OUT
+
+THANK YOU SO MUCH!
